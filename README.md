@@ -6,7 +6,7 @@
 
   <h1 align="center">GastroAI - Gastrointestinal Disease Detection Platform</h1>
   <p align="center"> 
-    <a href="">View Prototype Web Application</a>
+    <a href="https://gastroai.streamlit.app/">View Prototype Web Application</a>
   </p>
 </p>
 
