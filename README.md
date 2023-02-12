@@ -38,7 +38,7 @@ We welcome contributions from the open-source community to help improve and expa
 - Fork this repository
 - Create a new branch for your changes: `git checkout -b your-feature`
 - Make your changes and commit them: `git commit -am 'Add new feature'`
-- Push your changes to your forked repository: git push origin your-feature
+- Push your changes to your forked repository: `git push origin your-feature`
 - Submit a pull request to this repository with a detailed description of your changes
 # License
-This project is licensed under the MIT License. See the LICENSE file for details
+This project is licensed under the MIT License.
